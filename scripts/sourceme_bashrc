@@ -1,0 +1,8 @@
+# ubuntu overrides l
+unalias l 
+
+# seriously
+export EDITOR=vim
+
+# yay scripts
+export PATH=$PATH:~/scripts

@@ -1,0 +1,4 @@
+apt install subversion
+apt install autoconf
+apt install libc-dev
+apt install libncurses5
