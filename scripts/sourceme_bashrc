@@ -1,8 +1,10 @@
 # ubuntu overrides l
-unalias l 
+if alias l >/dev/null 2>&1 ; then
+  unalias l
+fi
 
 # seriously
 export EDITOR=vim
 
 # yay scripts
-export PATH=$PATH:~/scripts
+export PATH=$PATH:~/homedir/scripts
