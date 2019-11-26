@@ -2,4 +2,10 @@ apt install subversion
 apt install autoconf
 apt install libc-dev
 apt install libncurses5
+apt install libncursesw5
 apt install libsm-dev
+apt install make
+apt install libxrender-dev
+apt install libxinerama-dev
+apt install fonts-dejavu-core
+
